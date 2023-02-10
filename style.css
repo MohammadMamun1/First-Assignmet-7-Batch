@@ -67,4 +67,25 @@
 }
 .description p{
     margin-top: 10px;
-}    
+}  
+/* 2nd banner   */
+.last-banner{
+    background-image: url(images/watch.png);
+    backdrop-filter: 40px;
+    background-repeat: no-repeat;
+    padding: 100px 100px 200px 50px;
+    margin:20px 250px 10px 150px;
+    text-align: left;
+    border-radius: 40px;
+}
+.last-banner h1{
+    font-size: 40px;
+    color: white;
+}
+.last-banner button{
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 10px;
+    background-color: orange;
+    color: whitesmoke;
+}
