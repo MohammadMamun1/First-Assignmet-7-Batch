@@ -89,3 +89,43 @@
     background-color: orange;
     color: whitesmoke;
 }
+.last-saction{
+    background-color: black;
+    display: flex;
+}
+.last-saction-description{
+    color: white;
+    padding: 100px;
+    margin-left: 100px;
+}
+.last-saction-description h1{
+    padding-bottom: 20px;
+}
+.last-saction-description p{
+    padding-bottom: 20px;
+}
+.last-saction-subscribe{
+    color: white;
+    padding: 100px;
+    margin-left: 100px;
+}
+.last-saction-subscribe h3{
+    color: white;
+    font-size: 30px;
+    padding-bottom: 20px;
+}
+.last-saction-subscribe input{
+    padding: 15px;
+    border-radius: 10px;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+}
+.last-saction-subscribe button{
+    padding: 10px;
+    font-size: 25px;
+    border-radius: 10px;
+    background-color:white;
+    color: red;
+    margin-top: 10px;    
+}
