@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Merriweather', serif;
+}
+.First-Topic{
+    text-align: right;
+    background-image: url(../First-Assignmet-7-Batch/images/banner/banner2.png);
+    padding: 300px 250px;
+    background-repeat: no-repeat;
+}
+.First-Topic h2 {
+    font-size: 70px;
+}
+.First-Topic p {
+    font-size: 20px;
+}
+.First-Topic button {
+    font-size: 30px;
+    color: white;
+    margin-top: 10px;
+    padding: 10px;
+    background-color: rgb(214, 70, 70);
+    border-radius: 10px;
+    border: 2px solid red;
+}
+.body-section{
+    display: flex;
+    align-items: center;
+    margin: 0 200px ;
+    padding: 50px 50px;
+    background-color: white ;
+}
+.Text-section{
+    padding: 50px;
+    
+}
+.Text-section h1{
+    font-size: 50px;
+}
+.Text-section p{
+    margin-top: 10px;
+}
+
+.Text-section p span{
+    color: green;
+}
