@@ -43,3 +43,28 @@
 .Text-section p span{
     color: green;
 }
+.section-title{
+    text-align: center;
+    text-decoration: none;
+    font-size: 50px;
+    margin-top: 40px;
+    margin-bottom: 30px;
+
+}
+.My-plan-images{
+    display: flex;
+    align-items: center;
+    gap: 150px;
+    margin-left: 250px;
+    margin-right: 50px;
+    border: 10px;
+}
+.description img {
+    margin-top: 10px;
+}
+.description h1{
+    margin-top: 10px;
+}
+.description p{
+    margin-top: 10px;
+}    
